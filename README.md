@@ -1,6 +1,6 @@
 # palmerpenguins-classifiers
 
-This repository contains Google Colab notebooks to demonstrate applying different machine learning methods for classification tasks in Python. They use the Palmer Penguins dataset ([Horst et al. 2022](http://doi.org/10.32614/RJ-2022-020))
+This repository contains notebooks to demonstrate applying different machine learning methods for classification tasks in Python. They use the Palmer Penguins dataset ([Horst et al. 2022](http://doi.org/10.32614/RJ-2022-020))
 of penguin measurements taken from the Palmer Archipelago in Antarctica between 2007 and 2009. Algorithms trained on these measurements can predict the species of penguin for a given sample.  
 [<img src="images/horst_penguins.png" alt="Artwork by @allison_horst showing the Palmer Penguins" width="600"/>](https://github.com/allisonhorst/palmerpenguins)    
 *The three species of penguins in the dataset (artwork by @allison_horst)*
