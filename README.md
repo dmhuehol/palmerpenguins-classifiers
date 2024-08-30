@@ -7,12 +7,12 @@ of penguin measurements taken from the Palmer Archipelago in Antarctica between 
 
 Palmer Penguins is well-documented and
 straightforward to understand, while illustrating a realistic application of data-driven methods for classification tasks using field measurements. It also provides an alternative to the frequently-used Iris dataset, 
-which originated in eugenics research and is thus not appropriate for classroom applications.
+which originated in eugenics research and is thus not appropriate for classroom applications. To learn more, see the ["Stop using iris"](https://www.meganstodel.com/posts/no-to-iris/) essay by Megan Stodel and [Horst et al. 2022](http://doi.org/10.32614/RJ-2022-020).
 
 
 ## Notebooks
 Each notebook shares the same structure: loading the data and creating basic plots, setting up the classifier model with tunable hyperparameters, exploring model behavior on evaluation data with explainability methods, and assessing final 
-performance with held-back testing data. The following classifier methods are implemented, and I periodically add more as time and interest permit.
+performance with held-back testing data. The following classifier methods are implemented, and I periodically add more as time permits.
 * **Random forests**: ``rf_class_palmerpenguins`` (added Feb. 2023)
 * **Support vector machines**: ``svm_class_palmerpenguins`` (added Oct. 2023)
 * **Neural networks**: ``nn_class_palmerpenguins`` (added Oct. 2023, note fully functional but explainability not yet implemented)
